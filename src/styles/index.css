@@ -1,0 +1,19 @@
+#menu {
+    flex-wrap: wrap;
+ }
+
+.ui.secondary.pointing.menu .active.item, .ui.secondary.pointing.menu .active.item:hover {
+  border-color: #F2711C;
+}
+
+ header {
+   margin-bottom: 1.5rem ;
+ }
+
+div.content > p.transition {
+  display: block !important
+}
+
+.ui.input input:focus{
+  border-color: #F2711C
+}
